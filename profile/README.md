@@ -1,4 +1,4 @@
-## Welcome to Link My Ride! 👋
+## Link My Ride! 👋
 
 ### Create. Share. Ride.
 
