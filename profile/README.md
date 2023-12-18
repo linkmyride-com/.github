@@ -1,6 +1,6 @@
-Welcome to Link My Ride! 👋
+## Welcome to Link My Ride! 👋
 
-Create. Share. Ride.
+### Create. Share. Ride.
 
 🚀 How to Get Started
 
